@@ -1,0 +1,11 @@
+---
+title: "R Notebook do Joao"
+output: html_document
+---
+Este é o primeiro exemplo de projeto em R;
+
+
+```{r}
+plot(cars)
+```
+
